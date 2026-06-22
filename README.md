@@ -1,11 +1,44 @@
-<div align="center">
+# Mohammed Saquib Raza | Portfolio
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A modern portfolio website showcasing my projects, technical skills, internship experience, and software engineering journey.
 
-  <h1>Built with AI Studio</h2>
+## Live Portfolio
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+[🚀 Live Portfolio](https://saquib-s-portfolio-136144454843.asia-southeast1.run.app/)
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Highlights
 
-</div>
+- Full-Stack Web Development
+- AI-Powered Applications
+- Android Development
+- Machine Learning Projects
+- REST API Development
+
+## Featured Projects
+
+### TWIST Social Media Platform
+Built using Next.js, Clerk, Supabase PostgreSQL, and Tailwind CSS.
+
+### Reddit User Persona Generator
+AI-powered user profiling system using Python, PRAW, and Gemini AI.
+
+### Aave V2 DeFi Credit Scoring Model
+Machine learning-based behavioural credit scoring pipeline.
+
+### Video Frame Search API
+FastAPI, OpenCV, FFmpeg, and Qdrant powered visual search system.
+
+## Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+## Connect
+
+- LinkedIn
+- GitHub
+- Portfolio
+-
