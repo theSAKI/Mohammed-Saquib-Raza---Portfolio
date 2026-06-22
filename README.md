@@ -1,44 +1,52 @@
 # Mohammed Saquib Raza | Portfolio
 
-A modern portfolio website showcasing my projects, technical skills, internship experience, and software engineering journey.
+🚀 Personal portfolio website showcasing my software engineering projects, technical skills, internship experience, and professional journey.
 
-## Live Portfolio
+## 🌐 Live Portfolio
 
-[🚀 Live Portfolio](https://saquib-s-portfolio-136144454843.asia-southeast1.run.app/)
+[View Portfolio](https://saquib-s-portfolio-136144454843.asia-southeast1.run.app/)
 
-## Highlights
+## 👨‍💻 About
 
-- Full-Stack Web Development
-- AI-Powered Applications
-- Android Development
-- Machine Learning Projects
-- REST API Development
+Computer Science and Engineering graduate specializing in Full-Stack Development, Android Applications, and AI-Powered Systems. Experienced in building scalable web applications, intelligent automation tools, machine learning solutions, and backend systems.
 
-## Featured Projects
+## ✨ Featured Projects
 
 ### TWIST Social Media Platform
-Built using Next.js, Clerk, Supabase PostgreSQL, and Tailwind CSS.
+
+Full-stack social media platform built with Next.js, Clerk, Supabase PostgreSQL, and Tailwind CSS featuring secure authentication, REST APIs, and real-time interactions.
 
 ### Reddit User Persona Generator
-AI-powered user profiling system using Python, PRAW, and Gemini AI.
+
+AI-powered user profiling system leveraging Python, PRAW, and Gemini AI to generate behavioural insights and personality analysis from Reddit activity.
 
 ### Aave V2 DeFi Credit Scoring Model
-Machine learning-based behavioural credit scoring pipeline.
+
+Machine learning pipeline for analysing wallet behaviour and generating risk-aware DeFi credit scores using feature engineering and predictive modelling.
 
 ### Video Frame Search API
-FastAPI, OpenCV, FFmpeg, and Qdrant powered visual search system.
 
-## Tech Stack
+FastAPI-based visual search system using OpenCV, FFmpeg, and Qdrant Vector Database for efficient frame retrieval and similarity search.
 
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Framer Motion
+## 🛠 Tech Stack
 
-## Connect
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+* Python
+* PostgreSQL
+* Firebase
+* Git & GitHub
 
-- LinkedIn
-- GitHub
-- Portfolio
--
+## 🔗 Connect
+
+* Portfolio: https://saquib-s-portfolio-136144454843.asia-southeast1.run.app/
+* LinkedIn: https://linkedin.com/in/mohammed-saquib-raza
+* GitHub: https://github.com/theSAKI
+
+---
+
+⭐ If you like the portfolio, feel free to explore the projects and repositories.
+
