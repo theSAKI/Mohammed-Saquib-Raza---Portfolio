@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Mohammed Saquib Raza | Portfolio
 
-# Run and deploy your AI Studio app
+🚀 Personal portfolio website showcasing my software engineering projects, technical skills, internship experience, and professional journey.
 
-This contains everything you need to run your app locally.
+## 🌐 Live Portfolio
 
-View your app in AI Studio: https://ai.studio/apps/bdf69b1a-e928-4093-ae93-f0dc7dcc8bb6
+[View Portfolio](https://saquib-s-portfolio-136144454843.asia-southeast1.run.app/)
 
-## Run Locally
+## 👨‍💻 About
 
-**Prerequisites:**  Node.js
+Computer Science and Engineering graduate specializing in Full-Stack Development, Android Applications, and AI-Powered Systems. Experienced in building scalable web applications, intelligent automation tools, machine learning solutions, and backend systems.
 
+## 🛠 Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+* Python
+* PostgreSQL
+* Firebase
+* Git & GitHub
+
+## 🔗 Connect
+
+* Portfolio: https://saquib-s-portfolio-136144454843.asia-southeast1.run.app/
+* LinkedIn: https://linkedin.com/in/mohammed-saquib-raza
+* GitHub: https://github.com/theSAKI
+
+---
+
+⭐ If you like the portfolio, feel free to explore the projects and repositories.
